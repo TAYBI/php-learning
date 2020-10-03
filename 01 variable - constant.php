@@ -1,7 +1,9 @@
 
 <?php 
+    // variabales
     $firtNam = 'Bilal';
     $age = 2;
+    // constant
     define("name", "bilal");
 ?>
 
